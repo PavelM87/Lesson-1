@@ -1,5 +1,3 @@
-import math
-
 
 # Уровень 1
 
@@ -8,7 +6,7 @@ value = # ваш код
 
 # Уровень 2
 
-def get_value(value: int):
+def get_value(value: float):
     """
     Выводит в консоль строку
     'значение выражения: value'
@@ -18,7 +16,7 @@ def get_value(value: int):
   
 # Уровень 3
 
-def get_distance(t: int, v: int):
+def get_distance(t: float, v: float):
     """Возвращает дистанцию"""
     # ваш код
     
