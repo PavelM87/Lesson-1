@@ -8,7 +8,14 @@
 
 *Посчитать значение выражения:*
 
-![Image](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B5%20%2B%20%5Cfrac%7B7%20%2A%205%7D%7B8%7D%7D%7B3%5E5%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+```
+        7 * 5  
+ 5  +   -----  
+          8    
+ ------------- 
+       5       
+      3  
+```
 
 
 ### **Уровень 2**
