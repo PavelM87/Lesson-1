@@ -25,7 +25,7 @@ def get_distance(t: int, v: int):
     
 # Уровень 3(*)
 
-def get_max_number(x: str, y: str) -> float:
+def get_max_number(x: str, y: str):
     """Возвращает наибольшее из двух чисел"""
     # ваш код
     
